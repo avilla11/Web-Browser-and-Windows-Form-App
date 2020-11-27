@@ -1,0 +1,10 @@
+C:\Users\Aurelio\Desktop\CSE445TempAndSort\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Aurelio\Desktop\CSE445TempAndSort\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Aurelio\Desktop\CSE445TempAndSort\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Aurelio\Desktop\CSE445TempAndSort\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Aurelio\Desktop\CSE445TempAndSort\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Aurelio\Desktop\CSE445TempAndSort\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Aurelio\Desktop\CSE445TempAndSort\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Aurelio\Desktop\CSE445TempAndSort\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Aurelio\Desktop\CSE445TempAndSort\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Aurelio\Desktop\CSE445TempAndSort\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

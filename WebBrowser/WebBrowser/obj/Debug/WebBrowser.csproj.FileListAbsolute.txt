@@ -1,0 +1,10 @@
+C:\Users\Aurelio\Desktop\CSE445TempAndSort\WebBrowser\bin\Debug\WebBrowser.exe.config
+C:\Users\Aurelio\Desktop\CSE445TempAndSort\WebBrowser\bin\Debug\WebBrowser.exe
+C:\Users\Aurelio\Desktop\CSE445TempAndSort\WebBrowser\bin\Debug\WebBrowser.pdb
+C:\Users\Aurelio\Desktop\CSE445TempAndSort\WebBrowser\obj\Debug\WebBrowser.csprojAssemblyReference.cache
+C:\Users\Aurelio\Desktop\CSE445TempAndSort\WebBrowser\obj\Debug\WebBrowser.Form1.resources
+C:\Users\Aurelio\Desktop\CSE445TempAndSort\WebBrowser\obj\Debug\WebBrowser.Properties.Resources.resources
+C:\Users\Aurelio\Desktop\CSE445TempAndSort\WebBrowser\obj\Debug\WebBrowser.csproj.GenerateResource.cache
+C:\Users\Aurelio\Desktop\CSE445TempAndSort\WebBrowser\obj\Debug\WebBrowser.csproj.CoreCompileInputs.cache
+C:\Users\Aurelio\Desktop\CSE445TempAndSort\WebBrowser\obj\Debug\WebBrowser.exe
+C:\Users\Aurelio\Desktop\CSE445TempAndSort\WebBrowser\obj\Debug\WebBrowser.pdb
